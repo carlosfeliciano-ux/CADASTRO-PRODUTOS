@@ -1,3 +1,3 @@
 npm run test
 
-test = node ./Docs/test/testeCliente.js
+test = npx tsx ./Docs/test/testeCliente.js
